@@ -2,7 +2,7 @@ We have purchased our domain from ionos website. we can find it by visiting this
 
         https://my.ionos.com/
         
-we can SignIn on that website by using following credentials
+we can SignIn on that website by using following credentials. We can manage or renew by accessing that website.
 
         user Name: ikjotenergy@gmail.com 
         Password: ikshop@2022
