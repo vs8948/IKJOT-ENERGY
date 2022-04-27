@@ -15,6 +15,7 @@ Here are some of the Paid PlugIns that we have Used
      1. DIGITS: Wordpress Mobile Number Signup and Login -->> Used for the LogIn Sign Up Through Mobile No.
             We have bought this plugin from codecanyon https://codecanyon.net/ we can access our account by logging in on that website by using our Google account of ikjotenergy@gmail.com
      2. Yost SEO Premium   --->>> this plugin we purchased from wordpress itself we can renew it from SEO section available in the side menu
+     
      <img width="670" alt="image" src="https://user-images.githubusercontent.com/93813369/165509262-f76f83e7-9e1b-40ec-ad41-b9eede9a504e.png">
 
 
